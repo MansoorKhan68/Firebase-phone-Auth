@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "425344845833",
+    "firebase_url": "https://project2-df745-default-rtdb.firebaseio.com",
+    "project_id": "project2-df745",
+    "storage_bucket": "project2-df745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425344845833:android:25ea142b1f8c3a73a1d0d8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArT2EMql17aRY6AJRDnN7LeDaQM78ZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425344845833:android:7a57447ce9e7a348a1d0d8",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArT2EMql17aRY6AJRDnN7LeDaQM78ZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
